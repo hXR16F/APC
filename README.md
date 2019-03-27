@@ -17,3 +17,6 @@ If you want to add your own wordlist/dictionary then you should use **APC-Wordli
 > 5125, 925, 9210, 2519, 510, 6264...
 3. Wordlist:
 > hello, abc, 123456789, password...
+
+# Screenshot
+![screenshot](https://i.imgur.com/wGCishy.png)
